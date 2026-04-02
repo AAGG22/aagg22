@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 ![icon-react](https://stats.pphat.top/icons/react?color=%230088CC)
 ![icon-python](https://stats.pphat.top/icons/python?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/postgresql?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/php?color=%234584B6)
