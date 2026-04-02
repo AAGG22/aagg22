@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aagg22&theme=gotham&locale=es)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=aagg22&theme=transparent)
+![icon-collection-basic](https://stats.pphat.top/icons?name=react,typescript,github,javascript,nextjs,nuxt&columns=3)
