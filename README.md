@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # Alfredo D. Galván
 
-A brief description of what this project does and who it's for
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aagg22&theme=gotham&locale=es)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=aagg22)](https://github.com/aagg22/aagg22)
