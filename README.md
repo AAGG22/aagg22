@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 ![icon-python](https://stats.pphat.top/icons/python?color=%234584B6)
 ![icon-python](https://stats.pphat.top/icons/postgresql?color=%234584B6)
 ![icon-python](https://stats.pphat.top/icons/php?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/github?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/php?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/javascript?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/nextjs?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/tailwindcss?color=%234584B6)
+![icon-python](https://stats.pphat.top/icons/typescript?color=%234584B6)
+
+
