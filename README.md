@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 # Alfredo D. Galván
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aagg22&theme=gotham&locale=es)](https://git.io/streak-stats)
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=aagg22&theme=transparent)
-
 ![icon-react](https://stats.pphat.top/icons/react?color=%230088CC)
 ![icon-python](https://stats.pphat.top/icons/python?color=%234584B6)
 ![icon-python](https://stats.pphat.top/icons/postgresql?color=%234584B6)
@@ -29,4 +25,6 @@ Here are some ideas to get you started:
 ![icon-python](https://stats.pphat.top/icons/tailwindcss?color=%234584B6)
 ![icon-python](https://stats.pphat.top/icons/typescript?color=%234584B6)
 
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=aagg22&theme=transparent)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aagg22&theme=gotham&locale=es)](https://git.io/streak-stats)
